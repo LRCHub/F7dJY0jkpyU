@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Where I Been / Shot Callin",
+  "base_artist": "YoungBoy Never Broke Again",
+  "createdAt": "2026-03-23T07:13:44.361675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wonder Where I Been",
+      "artist": "Nidal",
+      "has_synced": true,
+      "path": "select/01_Wonder_Where_I_Been_Nidal.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wonder Where I Been",
+      "artist": "Nidal",
+      "has_synced": true,
+      "path": "select/02_Wonder_Where_I_Been_Nidal.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Where I Been",
+      "artist": "Da Getta",
+      "has_synced": true,
+      "path": "select/03_Where_I_Been_Da_Getta.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Where I Been",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": false,
+      "path": "select/04_Where_I_Been_YoungBoy_Never_Broke_Again.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Where I Been",
+      "artist": "Skillz",
+      "has_synced": false,
+      "path": "select/05_Where_I_Been_Skillz.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Where I Been (Paused)",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/06_Where_I_Been_(Paused)_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "NBA Youngboy - Where I Been (Official Video)",
+      "artist": "AR2025",
+      "has_synced": true,
+      "path": "select/07_NBA_Youngboy_-_Where_I_Been_(Official_Video)_AR2025.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Where I Been",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": false,
+      "path": "select/pl_01_Where_I_Been_YoungBoy_Never_Broke_Again.txt"
+    }
+  ]
+}
